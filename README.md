@@ -1,4 +1,4 @@
 ### Hi there 👋
 # GIT COMMANDS DEMONSTRATION VIDEO LINK - **https://atharvshukla.github.io/atharvshukla.me/**
-above html,css file is just used for showing diff,log,status,commit and various features of git command for a beter understanding A simple bootstrap website with VIDEO LINK.
-# ABOVE DEMO WEBPAGE LINK(just for better undestanding can be ignored ) - ** **
+above html,css file is just used for showing diff,log,status,commit and various features of git command for a beter understanding inside the video A simple bootstrap website with VIDEO LINK.
+# ABOVE DEMO WEBPAGE LINK(just for better undestanding (can be ignored) ) - ** **
