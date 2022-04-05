@@ -1,2 +1,4 @@
-# GIT COMMANDS DEMONSTRATION 
-above html,css file is just used for showing diff,log,status,commit and various features of git command for a beter understanding A simpe bootstrap website with also the ANND VIDEO LINK.
+### Hi there 👋
+# GIT COMMANDS DEMONSTRATION VIDEO LINK - **https://atharvshukla.github.io/atharvshukla.me/**
+above html,css file is just used for showing diff,log,status,commit and various features of git command for a beter understanding A simple bootstrap website with VIDEO LINK.
+# ABOVE DEMO WEBPAGE LINK(just for better undestanding can be ignored ) - ** **
