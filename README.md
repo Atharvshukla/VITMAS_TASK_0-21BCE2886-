@@ -12,3 +12,12 @@ First login to github and create a reprositery with name of your choice  go and 
 ## 6. git add filename
 ## 7. git commit -m 'your message or a short description for the commit'
 ## 8. git show paste_commitid_from_log
+## 9. git branch 
+## 10. git checkout -b nameofbranch
+## 11. git checkout nameofbrach
+## 12. git merge branchname
+## 13. git log -n 
+## 14. git reset
+## 15. git rm 
+## 16. git pull
+## 17. git push
